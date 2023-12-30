@@ -1,6 +1,6 @@
 -  Hi, I’m @sanjeevs9
 -  I’m interested in open source and development
--  I’m currently learning DSA in java
+-  Full stack web devlopment 
 -  I’m looking to collaborate on ...
 -  How to reach me sanjeev.19kr@gmail.com
 
