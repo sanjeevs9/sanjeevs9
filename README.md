@@ -1,8 +1,7 @@
 -  www.sanjeevdev.in
 -  Hi, I’m @sanjeevs9
 -  I’m interested in open source and development
--  Full stack web devlopment 
--  I’m looking to collaborate on ...
+-  Full stack web devlopment
 -  How to reach me sanjeev.19kr@gmail.com
 
 <!---
@@ -26,7 +25,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=graphql" alt="Apollo GraphQL" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" style="margin-right: 10px;" />
@@ -35,17 +33,24 @@ You can click the Preview link to take a look at your changes.
 ### DevOps & Cloud Champion
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
 ### Code Sorcery
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" style="margin-right: 10px;" />
+</div>
+
+### Tools & Operating Systems
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="Github" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40" style="margin-right: 10px;" />
 </div>
