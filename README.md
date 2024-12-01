@@ -1,8 +1,12 @@
--  www.sanjeevdev.in
--  Hi, I’m @sanjeevs9
--  I’m interested in open source and development
--  Full stack web devlopment
--  How to reach me sanjeev.19kr@gmail.com
+# [www.sanjeevdev.in](http://www.sanjeevdev.in)
+
+## Hi, I’m @sanjeevs9  
+- 🚀 Passionate about **open source** and **development**  
+- 🌐 Skilled in **Full-Stack Web Development**  
+- 🏆 Proud to have **won bounties on open-source contributions**, showcasing my ability to solve real-world problems and collaborate with the global developer community  
+
+## How to reach me:  
+📧 **sanjeev.19kr@gmail.com**
 
 <!---
 sanjeevs9/sanjeevs9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
