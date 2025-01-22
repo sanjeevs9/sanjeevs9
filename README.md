@@ -3,7 +3,8 @@
 ## Hi, I’m @sanjeevs9  
 - 🚀 Passionate about **open source** and **development**  
 - 🌐 Skilled in **Full-Stack Web Development**  
-- 🏆 Proud to have **won bounties on open-source contributions**, showcasing my ability to solve real-world problems and collaborate with the global developer community  
+- 🏆 Proud to have **won bounties on open-source contributions**,
+- showcasing my ability to solve real-world problems and collaborate with the global developer community  
 
 ## How to reach me:  
 📧 **sanjeev.19kr@gmail.com**
