@@ -1,6 +1,6 @@
 # [www.sanjeevdev.in](http://www.sanjeevdev.in)
 
-## Hi, I’m sanjeev
+## Hi, I am sanjeev
 - 🚀 Passionate about **open source** and **development**  
 - 🌐 Skilled in **Full-Stack Web Development**  
 - 🏆 Proud to have **won bounties on open-source contributions**,
